@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.115
+
+### Patch Changes
+
+- dc56d3c: Fix navigation when `base` path is set and validate that option's value
+
 ## 1.0.0-next.114
 
 ### Patch Changes
